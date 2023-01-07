@@ -29,7 +29,7 @@ Analysis include
 
 ## Project Links
 
-[Repo Link](https://github.com/robel-codes/Funding-Analysis-Neural-Network) <br>
+[Repo Link](https://github.com/robel-codes/algorithmic-trading-bot) <br>
 
 ## Contribution Guidelines:
 
